@@ -1,4 +1,5 @@
 
+created two components 1 parent and 1 child and pass the data from parent to child in real time.
 
 Counter App
 
