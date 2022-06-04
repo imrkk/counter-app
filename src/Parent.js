@@ -13,8 +13,8 @@ function Parent(){
         {
             count>=0? <Child data={count} /> : <h1>Count : {num}</h1>
         }
-        <button id='btn1' onClick={()=>setCount(count+1)}>Increment</button> <br/>
-        <button id='btn2' onClick={()=>setCount(count-1)}>Decrement</button>
+        <button  onClick={()=>setCount(count+1)}>Increment</button> <br/>
+        <button  onClick={()=>setCount(count-1)}>Decrement</button>
 
 
         </div>
